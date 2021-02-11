@@ -18,6 +18,6 @@ Prerequisites
  * BinPac8x
 	
 0. Download all prerequisites and set Windows Path variables for the programs
-1. Run make.bat for windows
+1. Run Makefile
 2. The binary will be at build\main.8xp
 3. Copy the file main.8xp to your TI-83/84 Plus calculator
